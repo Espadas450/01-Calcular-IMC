@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args)
     {
         // Variables
-        double peso = 0, altura = 0, imc = 0;
+        double peso, altura;
 
         Scanner scanner = new Scanner(System.in);
 
